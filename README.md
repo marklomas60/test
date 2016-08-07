@@ -1,3 +1,3 @@
-# test
+go
 hello
 go
